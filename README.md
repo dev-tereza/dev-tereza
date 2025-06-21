@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou a **dev-tereza**!
 
-<!--
-**dev-tereza/dev-tereza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Dev em formação | Café, código e boas vibes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou uma desenvolvedora em formação, explorando o universo da programação passo a passo.  
+Aqui compartilho meus estudos, projetos e aprendizados nessa jornada cheia de descobertas (e alguns bugs também 😅).  
+
+## Projetos
+
+ Ainda estou construindo meu portfólio, mas logo mais vem coisa boa por aqui!  
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/maria-tereza-alves-2350131a4) 💌  
+
+---
+
+Obrigada por passar por aqui! Vamos codar, errar, acertar e, em algum momento... a gente chega lá! ✨
